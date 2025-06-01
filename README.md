@@ -40,8 +40,8 @@ A deep-dive table with drill-through functionality:
 * Bookmark toggle for full data view
 ---
 ## Files Included
-* `Uber.pbix` – Power BI report file
-* `Uber.pdf` – PDF documentation of business requirements and dashboard explanation
+* [`Uber.pbix`](https://github.com/ManarZeita25/Uber-Trip-PowerBI-Dashboard/blob/main/dashboards/Uber.pbix) – Power BI report file 
+* [`Uber.pdf`](https://github.com/ManarZeita25/Uber-Trip-PowerBI-Dashboard/blob/main/dashboards/exported/Uber.pdf) – PDF documentation of business requirements and dashboard explanation 
 ---
 ## Features
 * **Dynamic visuals** with disconnected measure selector
